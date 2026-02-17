@@ -1,8 +1,17 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Ashlyn
+ * Created on: Feb 2026
+ * This program will solve basic math
 */
 
-basic.showString('Hello, World!')
+basic.clearScreen()
+basic.pause(1000)
+
+
+basic.showString("A rectangle has dimensions 5 cm & 3 cm")
+basic.showString("the perimeter would be")
+basic.showString(2 * (5 + 3) + "cm")
+basic.showString("The area would be")
+basic.showString((5 * 3) + "cm^2")
+
